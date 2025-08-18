@@ -16,7 +16,9 @@ public class Main {
         prof4.mostrarInformacion();
     
 
-        
+        prof2.calcularSalarioAnual();
+        prof2.calcularSalarioAnual(4);
+        prof2.calcularSalarioAnual(5000);
 
     }
 }
